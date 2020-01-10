@@ -5,6 +5,7 @@
 > - `clone the repo`
 > - Inside project's root folder: `npm install`
 > - To start developing: `npm run dev`
+> - Then check your `localhost:4000` to see that you're **All set!**
 
 ---
 
