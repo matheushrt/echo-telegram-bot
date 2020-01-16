@@ -21,7 +21,8 @@
     "debug": "^4.1.1",
     "express": "^4.17.1",
     "http-errors": "^1.7.3",
-    "morgan": "^1.9.1"
+    "morgan": "^1.9.1",
+    "source-map-support": "^0.5.16"
   },
   "devDependencies": {
     "@babel/cli": "^7.7.7",
