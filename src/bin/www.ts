@@ -3,7 +3,7 @@
 /**
  * Module dependencies.
  */
-
+import 'source-map-support/register';
 import app from '../app';
 import dbg from 'debug';
 import http from 'http';
