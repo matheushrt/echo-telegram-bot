@@ -8,9 +8,7 @@ export const sendMessage = async (
   text: string,
   options?: SendMessageOptions
 ): Promise<Response> => {
-  const params: any = {
-    // chat_id: -200983060,
-    // chat_id: 141656648,
+  const params: {} = {
     chat_id,
     text,
     ...options
