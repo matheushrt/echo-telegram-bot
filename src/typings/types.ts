@@ -1,0 +1,1 @@
+type BotMethods = 'sendMessage' | 'setWebhook';
